@@ -1,0 +1,13 @@
+Light
+
+	Primary: #F15927
+	Secondary: #121212
+	Anchor: #00AEEF
+	Accent: #FFCB08
+
+Dark
+	Primary: #FFCB08
+	Secondary: #CECECE
+	Anchor: #00AEEF
+	Accent: #F15927
+
